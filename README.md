@@ -79,25 +79,25 @@ The main objectives of this project are:
 https://youtu.be/V7Cte1HAaWc?si=T1fptP0sjYG7cliE
 
 ### Team Members
-**Ayush Tiwari – Team Lead**
+**Tallapragada Varshitha – Team Lead**
 - Understanding Business Requirements  
 - Defining Project Scope and Objectives  
 - Project Documentation  
 - Guidelines for Project Documentation and Submission  
 
-**Mohika Chourey**
+**Chandra Sekhar Swamy Allada**
 - Salesforce Developer Account Setup  
 - Objects Creation  
 - Tabs Configuration  
 - Fields and Relationships  
 
-**Aditya Gautam**
+**Kanuri Bala Bhagya Sri**
 - Application Creation  
 - Validation Rules  
 - Flow Automation  
 - Agentforce Integration  
 
-**Kajal Chourey**
+**Eragam Reddy Bhuvaneswari**
 - Profiles Setup  
 - Roles Configuration  
 - User Management  
