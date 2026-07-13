@@ -78,27 +78,30 @@ The main objectives of this project are:
 **Demo Video:**  
 https://youtu.be/V7Cte1HAaWc?si=T1fptP0sjYG7cliE
 
-### Team Members
+### Team Members :
+
 **Tallapragada Varshitha – Team Lead**
-- Understanding Business Requirements  
-- Defining Project Scope and Objectives  
-- Project Documentation  
-- Guidelines for Project Documentation and Submission  
+- Agentforce
+- User Adoption and Change Management
+- Project Management
 
 **Chandra Sekhar Swamy Allada**
-- Salesforce Developer Account Setup  
-- Objects Creation  
-- Tabs Configuration  
-- Fields and Relationships  
+- Application Creation
+- Flows
+- Guidelines For Project Documentation and Submission
 
 **Kanuri Bala Bhagya Sri**
-- Application Creation  
-- Validation Rules  
-- Flow Automation  
-- Agentforce Integration  
+-Salesforce Account 
+- Profiles
+- Users
 
 **Eragam Reddy Bhuvaneswari**
-- Profiles Setup  
-- Roles Configuration  
-- User Management  
-- Data Migration, Testing and Security
+- Defining Project Scope And Objectives
+- Fields and Relationships
+- Validation Rules
+
+**Alibakar Siddiq**
+- Tabs
+- Understanding Business Requirements
+- Roles
+- Data Migration, Testing & Security
