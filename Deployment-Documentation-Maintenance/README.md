@@ -4,6 +4,6 @@ This folder contains deployment, documentation, and maintenance related files of
 
 It includes:
 
-- User Adoption and Change Management
+- User Adoption and Change Managements
 - Project Documentation
-- Guidelines For Project Documentation and Submission
+- Guidelines For Project Documentation and Submissions
